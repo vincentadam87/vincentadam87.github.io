@@ -1,0 +1,50 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: page
+---
+
+I'm currently a PhD candidate at the [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/).
+I have a broad interest in understanding how humans learn and use flexible representations of their environments. In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I'm also broadly interested probabilistic machine learning which both provides the framework to rigorously describe perception as an inference under uncertainty and to derive tools for statistical data analysis.
+ <br />
+ <br />
+
+---
+ <br />
+
+
+###  Publications
+
+
+#### Journal Papers
+
+
+ * Chambers C, Akram S, **Adam V**, Pelofi C, Sahani M, Shamma S, Pressnitzer D (2017) _Prior context in audition informs binding and shapes simple features._ Nature Commununications (in press)
+
+ * Bastian M, Lerique S, **Adam ⁠V**, Franklin M.S⁠, Schooler J.W, Sackur J (2017) _Language facilitates introspection: Verbal mind-wandering has privileged access to consciousness_ Consciousness & Cognition (in press)
+
+ * Daunizeau J, **Adam V**, Rigoux L (2014) VBA: _A Probabilistic Treatment of Nonlinear Models for Neurobiological and Behavioural Data._ PLoS Comput Biol 10(1): e1003441. doi:10.1371/journal.pcbi.1003441
+
+
+#### Conference Papers
+
+ * **Adam V**, Hensman J, Sahani M (2016) _Scalable transformed additive signal decomposition by non-conjugate gaussian process inference._
+In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)
+
+#### Conference Posters
+
+* Lieder I, **Adam V**, Sahani M, Ahissar M (2017) _Sensory history affects perception through online updating of prior expectations._ Cosyne Abstracts 2017, Salt Lake City USA.
+
+* **Adam V**, Duncker L, Sahani M (2017) _Continuous-time point-process GPFA using sparse variational methods._ Cosyne Abstracts 2017, Salt Lake City USA.
+
+* **Adam V**, Chambers C, Sahani M, Pressnitzer D (2016) _Pre-perceptual grouping accounts for contextual dependence in the perception of frequency shift._ Cosyne Abstracts 2016, Salt Lake City USA.
+
+* **Adam V**, Soldado-Magraner J, Jitkrittum W, Strathmann H, Lakshminarayanan B, Ialongo A.D, Bohner G, Huh Ben.D, Goetz L, Dowling S, Serban I.V, Louis M (2015) _Performance of synchrony and spectral-based features in early seizure detection: exploring feature combinations and effect of latency._ International Workshop on Seizure Prediction (IWSP7). **Award: Honourable Mention**
+
+* **Adam V**, Sahani M (2014) _Bayesian perception of the pitch of non-stationary natural sounds._ Cosyne Abstracts 2014, Salt Lake City USA.
+
+
+
+
+

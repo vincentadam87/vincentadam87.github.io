@@ -2,11 +2,12 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: page
+layout: home
 ---
 
 I'm currently a PhD candidate at the [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/).
-I have a broad interest in understanding how humans learn and use flexible representations of their environments. In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I'm also broadly interested probabilistic machine learning which both provides the framework to rigorously describe perception as an inference under uncertainty and to derive tools for statistical data analysis.
+I have a broad interest in cognitive science and probabilistic machine learning.
+In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I also developped non-parametric methods for statistical data analysis.
  <br />
  <br />
 

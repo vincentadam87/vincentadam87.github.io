@@ -9,13 +9,13 @@ I'm currently a PhD candidate at the [Gatsby Computational neuroscience Unit](ht
 I have a broad interest in cognitive science and probabilistic machine learning.
 In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I also developped non-parametric methods for statistical data analysis.
  <br />
- <br />
+<br />
 
 ---
- <br />
+<br />
 
 
-###  Publications
+###  **Publications**
 
 
 #### Journal Papers
@@ -45,6 +45,33 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 * **Adam V**, Sahani M (2014) _Bayesian perception of the pitch of non-stationary natural sounds._ Cosyne Abstracts 2014, Salt Lake City USA.
 
+<br />
+
+---
+<br />
+
+### **Education**
+
+ * 2012-2017, PhD Candidate at the  [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/). Supervisor: Maneesh Sahani
+
+ * 2009-2011, Master's Degree in Cognitive Science ([Cogmaster](http://sapience.dec.ens.fr/cogmaster/www/)), at ENS-EHESS-PARISV, France. Master's thesis: _Study of the implication of cognitive control in adaptation to variable environments_ (with Etienne Koechlin)
+
+ * 2006-2009, Engineering Diploma at [Ecole Centrale de Nantes](http://www.ec-nantes.fr/version-anglaise/) (France), major: Signal processing.
+
+
+<br />
+
+---
+<br />
+
+### **Projects and other activities**
+
+I participated in the development of the scientific application [Daydreaming](http://daydreaming-the-app.net/), with financial help from the city of Paris through [Science en poche](https://iscpif.fr/projects/science-en-poche/). I started a scientific [blog](https://vincentadam87.wordpress.com/) that I plan to revive soon. With the Gatsby Unit we participated in a Kaggle hosted seizure detection [challenge](https://www.kaggle.com/c/seizure-detection) and ranked 9/200 and we presented our work at a seizure focused conference. I've been involved in consultancy work with the company [Swhere](http://www.swhere.com/) applying machine learning techniques to solve business problems.
+
+<br />
+
+---
+<br />
 
 
 

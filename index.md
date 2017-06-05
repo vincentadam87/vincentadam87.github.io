@@ -25,13 +25,13 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
 
  * Bastian M, Lerique S, **Adam ⁠V**, Franklin M.S⁠, Schooler J.W, Sackur J (2017) _Language facilitates introspection: Verbal mind-wandering has privileged access to consciousness_ Consciousness & Cognition. doi:10.1016/j.concog.2017.01.002
 
- * Daunizeau J, **Adam V**, Rigoux L (2014) VBA: _A Probabilistic Treatment of Nonlinear Models for Neurobiological and Behavioural Data._ PLoS Comput Biol 10(1): e1003441. doi:10.1371/journal.pcbi.1003441
-
+ * Daunizeau J, **Adam V**, Rigoux L (2014) VBA: _A Probabilistic Treatment of Nonlinear Models for Neurobiological and Behavioural Data._ PLoS Comput Biol 10(1): e1003441. doi:10.1371/journal.pcbi.1003441 [[code](https://mbb-team.github.io/VBA-toolbox/
+)]
 
 #### Conference Papers
 
  * **Adam V**, Hensman J, Sahani M (2016) _Scalable transformed additive signal decomposition by non-conjugate gaussian process inference._
-In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP)
+In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP). [[code](https://github.com/UCL/SVAGP)]
 
 #### Conference Posters
 

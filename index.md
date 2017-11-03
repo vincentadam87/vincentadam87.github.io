@@ -5,8 +5,8 @@
 layout: home
 ---
 
-I'm currently a PhD candidate at the [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/).
-I have a broad interest in cognitive science and probabilistic machine learning.
+I just completed a PhD candidate at the [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/).
+I have a broad interest in cognitive science, probabilistic machine learning and approximate inference.
 In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I also developped non-parametric methods for statistical data analysis.
  <br />
 <br />
@@ -44,6 +44,13 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 * **Adam V**, Soldado-Magraner J, Jitkrittum W, Strathmann H, Lakshminarayanan B, Ialongo A.D, Bohner G, Huh Ben.D, Goetz L, Dowling S, Serban I.V, Louis M (2015) _Performance of synchrony and spectral-based features in early seizure detection: exploring feature combinations and effect of latency._ International Workshop on Seizure Prediction (IWSP7). **Award: Honourable Mention**
 
 * **Adam V**, Sahani M (2014) _Bayesian perception of the pitch of non-stationary natural sounds._ Cosyne Abstracts 2014, Salt Lake City USA.
+
+#### Working papers
+
+* Duncker L, **Adam V**, Sahani M, _Sparse Variational Gaussian Processes for Non-Conjugate Latent Factor Models_.
+
+* **Adam V**, _Structured Variational Inference for Coupled Gaussian Processes_.
+
 
 ###  **Talks**
 

@@ -41,7 +41,8 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 * **Adam V**, Chambers C, Sahani M, Pressnitzer D (2016) _Pre-perceptual grouping accounts for contextual dependence in the perception of frequency shift._ Cosyne Abstracts 2016, Salt Lake City USA.
 
-* **Adam V**, Soldado-Magraner J, Jitkrittum W, Strathmann H, Lakshminarayanan B, Ialongo A.D, Bohner G, Huh Ben.D, Goetz L, Dowling S, Serban I.V, Louis M (2015) _Performance of synchrony and spectral-based features in early seizure detection: exploring feature combinations and effect of latency._ International Workshop on Seizure Prediction (IWSP7). **Award: Honourable Mention**
+* **Adam V**, Soldado-Magraner J, Jitkrittum W, Strathmann H, Lakshminarayanan B, Ialongo A.D, Bohner G, Huh Ben.D, Goetz L, Dowling S, Serban I.V, Louis M (2015) _Performance of synchrony and spectral-based features in early seizure detection: exploring feature combinations and effect of latency._ International Workshop on Seizure Prediction (IWSP7). **Award: Honourable Mention**,  [[report](http://www.gatsby.ucl.ac.uk/~vincenta/kaggle/report.pdf)]
+
 
 * **Adam V**, Sahani M (2014) _Bayesian perception of the pitch of non-stationary natural sounds._ Cosyne Abstracts 2014, Salt Lake City USA.
 

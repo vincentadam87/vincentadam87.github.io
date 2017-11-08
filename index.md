@@ -50,7 +50,7 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 * Duncker L, **Adam V**, Sahani M, _Sparse Variational Gaussian Processes for Non-Conjugate Latent Factor Models_.
 
-* **Adam V**, _Structured Variational Inference for Coupled Gaussian Processes_. arxiv e-prints 2017 [[link](http://arxiv.org/abs/1711.01131)]
+* **Adam V**, _Structured Variational Inference for Coupled Gaussian Processes_. arxiv e-prints 2017 [[link](http://arxiv.org/abs/1711.01131)][[code](https://github.com/vincentadam87/SVGPs)]
 
 
 ###  **Talks**

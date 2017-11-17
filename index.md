@@ -33,6 +33,9 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
  * **Adam V**, Hensman J, Sahani M (2016) _Scalable transformed additive signal decomposition by non-conjugate gaussian process inference._
 In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP). [[code](https://github.com/UCL/SVAGP)]
 
+* **Adam V**, _Structured Variational Inference for Coupled Gaussian Processes_. arxiv e-prints 2017 [[link](http://arxiv.org/abs/1711.01131)][[code](https://github.com/vincentadam87/SVGPs)], to be presented at the Workshop on Advances in Approximate Bayesian Inference, NIPS 2017.
+
+
 #### Conference Posters
 
 * Lieder I, **Adam V**, Sahani M, Ahissar M (2017) _Sensory history affects perception through online updating of prior expectations._ Cosyne Abstracts 2017, Salt Lake City USA.
@@ -49,9 +52,6 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 #### Working papers
 
 * Duncker L, **Adam V**, Sahani M, _Sparse Variational Gaussian Processes for Non-Conjugate Latent Factor Models_.
-
-* **Adam V**, _Structured Variational Inference for Coupled Gaussian Processes_. arxiv e-prints 2017 [[link](http://arxiv.org/abs/1711.01131)][[code](https://github.com/vincentadam87/SVGPs)]
-
 
 ###  **Talks**
 

@@ -82,7 +82,7 @@ Janelia Junior Scientist Workshop on Machine Learning and Computer Vision 2017.
 
 ### **Projects and other activities**
 
-I participated in the development of the scientific application [Daydreaming](http://daydreaming-the-app.net/), with financial help from the city of Paris through [Science en poche](https://iscpif.fr/projects/science-en-poche/). I started a scientific [blog](https://vincentadam87.wordpress.com/) that I plan to revive soon. With the Gatsby Unit we participated in a Kaggle hosted seizure detection [challenge](https://www.kaggle.com/c/seizure-detection) and ranked 9/200 and we presented our work at a seizure focused conference. I've been involved in consultancy work with the company [Swhere](http://www.swhere.com/) applying machine learning techniques to solve business problems.
+I participated in the development of the scientific application [Daydreaming](https://play.google.com/store/apps/details?id=com.brainydroid.daydreaming), with financial help from the city of Paris through [Science en poche](https://iscpif.fr/projects/science-en-poche/). I started a scientific [blog](https://vincentadam87.wordpress.com/) that I plan to revive soon. With the Gatsby Unit we participated in a Kaggle hosted seizure detection [challenge](https://www.kaggle.com/c/seizure-detection) and ranked 9/200 and we presented our work at a seizure focused conference. I've been involved in consultancy work with the company [Swhere](http://www.swhere.com/) applying machine learning techniques to solve business problems.
 
 <br />
 

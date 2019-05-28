@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a Machine Learning Researcher at [Prowler.io](https://www.prowler.io/) since February 2018.
+I am a Senior Machine Learning Researcher at [Prowler.io](https://www.prowler.io/) since February 2018.
 I hold PhD from the [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/).
 I have a broad interest in cognitive science, probabilistic machine learning and approximate inference.
 In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I also developped non-parametric methods for statistical data analysis.
@@ -31,6 +31,8 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
 )]
 
 #### Conference Papers
+
+ * Durrande N, **Adam V**, Bordeaux L, Eleftheriadis S & Hensman J (2019). _Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era._ Proceedings of Machine Learning Research, in PMLR
 
  * **Adam V**, Hensman J, Sahani M (2016) _Scalable transformed additive signal decomposition by non-conjugate gaussian process inference._
 In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP). [[code](https://github.com/UCL/SVAGP)]

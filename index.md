@@ -55,6 +55,8 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 ###  **Talks**
 
+* _Banded Matrix Operators for Gauss-Markov Models in the Automatic Differentiation Era_, 20th of November 2018, invited talk at the Max Planck Institute for Intelligent Systems. 
+
 * _Scalable transformed additive signal decomposition by non-conjugate gaussian process inference._, 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP).
 
 * _Sparse Variational Gaussian Processes for Non-Conjugate Latent Factor Models._,

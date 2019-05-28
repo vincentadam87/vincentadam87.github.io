@@ -53,10 +53,6 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 * **Adam V**, Sahani M (2014) _Bayesian perception of the pitch of non-stationary natural sounds._ Cosyne Abstracts 2014, Salt Lake City USA.
 
-#### Working papers
-
-* Duncker L, **Adam V**, Sahani M, _Sparse Variational Gaussian Processes for Non-Conjugate Latent Factor Models_.
-
 ###  **Talks**
 
 * _Scalable transformed additive signal decomposition by non-conjugate gaussian process inference._, 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP).

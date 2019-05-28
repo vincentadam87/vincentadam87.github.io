@@ -21,6 +21,7 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
 
 #### Journal Papers
 
+ * Lieder I⁺, **Adam V**⁺, Frenkel O, Jaffe-Dax S, Sahani M, & Ahissar M (2019). _Perceptual bias reveals slow-updating in autism and fast-forgetting in dyslexia._ Nature neuroscience, 22(2), 256.  doi:10.1038/s41593-018-0308-9 
 
  * Chambers C, Akram S, **Adam V**, Pelofi C, Sahani M, Shamma S, Pressnitzer D (2017) _Prior context in audition informs binding and shapes simple features._ Nature Communications Nature, 8, 15027. doi:10.1038/ncomms15027
 

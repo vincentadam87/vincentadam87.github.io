@@ -66,6 +66,21 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 * _Sparse Variational Gaussian Processes for Non-Conjugate Latent Factor Models._,
 Janelia Junior Scientist Workshop on Machine Learning and Computer Vision 2017.
 
+###  **Teaching**
+
+* [BAMB!](https://www.bambschool.org/): Barcelona Summer School for Advanced Modeling of Behavior, 4th to 10th of September 2019. Teaching assistant. Topics: Introduction to Tensorflow, Model comparison.
+
+* UCL Graduate School, Dimensionality reduction, Instructor, 2013-2015.
+
+* UCL Graduate School, Introduction to scientific programming in Python, Instructor, 2014.
+
+* Gatsby Unit, UCL, Theoretical Neuroscience, Teaching Assistant, 2013.
+
+* Gatsby Unit, UCL, Probabilistic and Unsupervised Learning, Teaching Assistant, 2013.
+
+* Gatsby Unit, UCL, Approximate Inference and Learning in Probabilistic Models, Teaching Assistant, 2013.
+
+
 <br />
 
 ---

@@ -57,6 +57,8 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 ###  **Talks**
 
+* _Doubly Sparse Variational Gaussian Processes_, 31st of October 2019, invited talk at the UCL center for Artificial intelligence.
+
 * _Sparse Variational Gaussian Processes_, 9th International Congress on Industrial and Applied Mathematics, Valencia, Spain, 17th of July 2019. Symposium on New trends in the developpment of Gaussian process for representing and learning data.
 
 * _Banded Matrix Operators for Gauss-Markov Models in the Automatic Differentiation Era_, 20th of November 2018, invited talk at the Max Planck Institute for Intelligent Systems. 

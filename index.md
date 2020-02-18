@@ -34,7 +34,7 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
 
  * **Adam V**, Eleftheriadis S, Artemev A, Durrande N & Hensman J (2020), _Doubly Sparse Variational Gaussian Processes._ (to be published in) the Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics. [[arxiv](https://arxiv.org/abs/2001.05363)]
 
-* Durrande N, **Adam V**, Bordeaux L, Eleftheriadis S & Hensman J (2019). _Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era._ Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics.
+* Durrande N, **Adam V**, Bordeaux L, Eleftheriadis S & Hensman J (2019). _Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era._ Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics. [[link](http://proceedings.mlr.press/v89/durrande19a.html)]
 
  * **Adam V**, Hensman J, Sahani M (2016). _Scalable transformed additive signal decomposition by non-conjugate gaussian process inference._
 In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP). [[code](https://github.com/UCL/SVAGP)]

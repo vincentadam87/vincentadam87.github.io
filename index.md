@@ -30,6 +30,10 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
  * Daunizeau J, **Adam V**, Rigoux L (2014) VBA: _A Probabilistic Treatment of Nonlinear Models for Neurobiological and Behavioural Data._ PLoS Comput Biol 10(1): e1003441. doi:10.1371/journal.pcbi.1003441 [[code](https://mbb-team.github.io/VBA-toolbox/
 )]
 
+#### Preprints
+
+* Van der Wilk M, Dutordoir V, John ST, Artemev A, **Adam V**, Hensman J (2020), _A Framework for Interdomain and Multioutput Gaussian Processes_, [[arxiv](https://arxiv.org/abs/2003.01115)]
+
 #### Conference Papers
 
  * **Adam V**, Eleftheriadis S, Artemev A, Durrande N & Hensman J (2020), _Doubly Sparse Variational Gaussian Processes._ (to be published in) the Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics. [[arxiv](https://arxiv.org/abs/2001.05363)]

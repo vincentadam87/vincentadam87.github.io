@@ -5,7 +5,7 @@
 layout: home
 ---
 
-I am a Senior Machine Learning Researcher at [Prowler.io](https://www.prowler.io/) since February 2018.
+I am a Senior Machine Learning Researcher at [Secondmind.ai](https://www.secondmind.ai/) (ex Prowler.io) since February 2018.
 I hold PhD from the [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/).
 I have a broad interest in cognitive science, probabilistic machine learning and approximate inference.
 In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I also developped non-parametric methods for statistical data analysis.

@@ -64,7 +64,9 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 ###  **Talks**
 
-* _Doubly Sparse Variational Gaussian Processes_, 7th of February 2020, invited talk at the Bayes Centre.
+* _Gaussian Processes for time-series_, 19th of November 2020, Cambridge Gaussian Process meetup.
+
+* _Doubly Sparse Variational Gaussian Processes_, 7th of February 2020, invited talk at the Bayes Centre, University of Edinburgh.
 
 * _Doubly Sparse Variational Gaussian Processes_, 31st of October 2019, invited talk at the UCL center for Artificial intelligence.
 

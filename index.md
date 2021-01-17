@@ -64,7 +64,9 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 ###  **Talks**
 
-* _Gaussian Processes for time-series_, 19th of November 2020, Cambridge Gaussian Process meetup.
+* _Sparse methods for Markovian Gaussian processes_, 14th of January 2021, Secondmind.ai Seminars (virtual).
+
+* _Gaussian Processes for time-series_, 19th of November 2020, Cambridge Gaussian Process meetup (virtual).
 
 * _Doubly Sparse Variational Gaussian Processes_, 7th of February 2020, invited talk at the Bayes Centre, University of Edinburgh.
 

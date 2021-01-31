@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-I am a Senior Machine Learning Researcher at [Secondmind.ai](https://www.secondmind.ai/) (ex Prowler.io) since February 2018. Beginning in November 2020, I will join [Arno Solin](https://users.aalto.fi/~asolin/)'s group at Aalto University as a postdoctoral researcher on a part-time basis. My research interests lie broadly within probabilistic machine learning and reinforcement learning.
+I am a Senior Machine Learning Researcher at [Secondmind.ai](https://www.secondmind.ai/) (ex Prowler.io) since February 2018. Since November 2020, I am also a postdoctoral researcher in [Arno Solin](https://users.aalto.fi/~asolin/)'s group at Aalto University. My research interests lie broadly within probabilistic machine learning and reinforcement learning.
 
 I completed a PhD under the supervision of [Maneesh Sahani](https://www.gatsby.ucl.ac.uk/~maneesh/) at the [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/), UK.
 In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I also developped non-parametric methods for statistical data analysis. My undergraduate studies were in electrical engineering (Ecole Centrale de Nantes, France) and cognitive science (Ecole Normale Superieure, France).
@@ -37,7 +37,9 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
 
 #### Conference Papers
 
- * **Adam V**, Eleftheriadis S, Artemev A, Durrande N & Hensman J (2020), _Doubly Sparse Variational Gaussian Processes._ (to be published in) the Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics. [[arxiv](https://arxiv.org/abs/2001.05363)]
+ * Wilkinson W, Solin A, **Adam V** (2021), _Sparse Algorithms for Markovian Gaussian Processes._ (to be published in) the Proceedings of the 24th International Conference on Artificial Intelligence and Statistics.
+
+ * **Adam V**, Eleftheriadis S, Artemev A, Durrande N & Hensman J (2020), _Doubly Sparse Variational Gaussian Processes._ Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics. [[arxiv](https://arxiv.org/abs/2001.05363)]
 
 * Durrande N, **Adam V**, Bordeaux L, Eleftheriadis S & Hensman J (2019). _Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era._ Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics. [[link](http://proceedings.mlr.press/v89/durrande19a.html)]
 

@@ -33,11 +33,14 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
 
 #### Preprints
 
+* McLeod J, Stojic, H, **Adam  V**, Kim D, Grau-Moya J, Vrancx P, Leibfried F (2021), _Bellman: A Toolbox for Model-Based Reinforcement Learning in TensorFlow_, 
+ [[link](https://arxiv.org/abs/2103.14407)][[code](https://github.com/Bellman-devs/bellman/)]
+
 * Van der Wilk M, Dutordoir V, John ST, Artemev A, **Adam V**, Hensman J (2020), _A Framework for Interdomain and Multioutput Gaussian Processes_, [[arxiv](https://arxiv.org/abs/2003.01115)]
 
 #### Conference Papers
 
- * Wilkinson W, Solin A, **Adam V** (2021), _Sparse Algorithms for Markovian Gaussian Processes._ (to be published in) the Proceedings of the 24th International Conference on Artificial Intelligence and Statistics.
+ * Wilkinson W, Solin A, **Adam V** (2021), _Sparse Algorithms for Markovian Gaussian Processes._ Proceedings of the 24th International Conference on Artificial Intelligence and Statistics. [[arxiv](https://arxiv.org/abs/2103.10710)]
 
  * **Adam V**, Eleftheriadis S, Artemev A, Durrande N & Hensman J (2020), _Doubly Sparse Variational Gaussian Processes._ Proceedings of the 23rd International Conference on Artificial Intelligence and Statistics. [[arxiv](https://arxiv.org/abs/2001.05363)]
 

@@ -46,13 +46,12 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
 
 * Durrande N, **Adam V**, Bordeaux L, Eleftheriadis S & Hensman J (2019). _Banded Matrix Operators for Gaussian Markov Models in the Automatic Differentiation Era._ Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics. [[link](http://proceedings.mlr.press/v89/durrande19a.html)]
 
+* Petangoda J, Pascual-Diaz S, **Adam V**, Vrancx P, Grau-Moya J (2019). _Disentangled Skill Embeddings for Reinforcement Learning_. Workshop on Learning Transferable Skills, NeurIPS 2019. [[link](https://arxiv.org/abs/1906.09223)]
+
  * **Adam V**, Hensman J, Sahani M (2016). _Scalable transformed additive signal decomposition by non-conjugate gaussian process inference._
 In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processing (MLSP). [[code](https://github.com/UCL/SVAGP)]
 
 * **Adam V**, _Structured Variational Inference for Coupled Gaussian Processes_. arxiv e-prints 2017 [[link](http://arxiv.org/abs/1711.01131)][[code](https://github.com/vincentadam87/SVGPs)], Workshop on Advances in Approximate Bayesian Inference, NIPS 2017.
-
-* Petangoda J, Pascual-Diaz S, **Adam V**, Vrancx P, Grau-Moya J (2019). _Disentangled Skill Embeddings for Reinforcement Learning_. Workshop on Learning Transferable Skills, NeurIPS 2019. [[link](https://arxiv.org/abs/1906.09223)]
-
 
 #### Conference Posters
 

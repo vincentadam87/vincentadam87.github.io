@@ -73,6 +73,8 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 ###  **Talks**
 
+* _Dual parameterization of sparse variational Gaussian processes_, 20th of October 2021, G-Research, London.
+
 * _Overview of Secondmind's opensource toolboxes_, 16th of September 2021, Gaussian Process and Uncertainty Quantification Summer School (virtual) [[link](https://www.youtube.com/watch?v=7CPwR2nyf5Y)] 
 
 * _Sparse methods for Markovian Gaussian processes_, 14th of January 2021, Secondmind.ai Seminars (virtual) [[link](https://www.youtube.com/watch?v=-Iw4whJsAhg)].

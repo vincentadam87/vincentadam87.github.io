@@ -43,7 +43,7 @@ In my thesis work, I focused on auditory perception and explored how Bayesian th
 
 #### Conference Papers
 
- * **Adam V**⁺, Chang E. P⁺, Khan M. E, Solin A (2021), _Dual Parameterization of Sparse Variational Gaussian Processes_, accepted at NeurIPS 2021.
+ * **Adam V**⁺, Chang E. P⁺, Khan M. E, Solin A (2021), _Dual Parameterization of Sparse Variational Gaussian Processes_, accepted at NeurIPS 2021. [[arxiv](https://arxiv.org/abs/2111.03412)]
 
  * Wilkinson W, Solin A, **Adam V** (2021), _Sparse Algorithms for Markovian Gaussian Processes._ Proceedings of the 24th International Conference on Artificial Intelligence and Statistics. [[arxiv](https://arxiv.org/abs/2103.10710)]
 

@@ -75,6 +75,8 @@ In 2016 IEEE 26th International Workshop on Machine Learning for Signal Processi
 
 ###  **Talks**
 
+* _Dual parameterization of sparse variational Gaussian processes_, 11th of April 2022, Gaussian Process Seminar Series, virtual. [[link](https://www.youtube.com/watch?v=WpGnthzVoBA&t=201s)]
+
 * _Optimization methods for variational Gaussian processes_, 4th of November 2021, Guest lecture, Imperial College, London.
 
 * _Dual parameterization of sparse variational Gaussian processes_, 20th of October 2021, G-Research, London.

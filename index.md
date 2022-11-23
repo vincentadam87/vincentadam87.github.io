@@ -16,3 +16,7 @@ I was a Senior Machine Learning Researcher at [Secondmind.ai](https://www.second
 
 I completed a PhD under the supervision of [Maneesh Sahani](https://www.gatsby.ucl.ac.uk/~maneesh/) at the [Gatsby Computational neuroscience Unit](http://www.gatsby.ucl.ac.uk/), London, UK.
 In my thesis work, I focused on auditory perception and explored how Bayesian theories of perception could account for various perceptual phenomena revealed in controlled psychophysical experiments. I also developped non-parametric methods for statistical data analysis. My undergraduate studies were in electrical engineering (Ecole Centrale de Nantes, France) and cognitive science (Ecole Normale Superieure, France).
+
+---
+
+Since 2022, I write about technology and culture in [a blog](https://vincentadam87.github.io/guiltytechnophile/).

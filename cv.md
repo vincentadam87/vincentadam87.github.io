@@ -25,6 +25,8 @@ permalink: /cv/
 
 ###  **Talks**
 
+* _Gaussian Variational Inference for Diffusion Processes Revisited_, 18th of November 2022, Seminar, Gatsby Unit, London.
+
 * _Dual parameterization of sparse variational Gaussian processes_, 11th of April 2022, Gaussian Process Seminar Series, virtual. [[link](https://www.youtube.com/watch?v=WpGnthzVoBA&t=201s)]
 
 * _Optimization methods for variational Gaussian processes_, 4th of November 2021, Guest lecture, Imperial College, London.
@@ -52,9 +54,13 @@ Janelia Junior Scientist Workshop on Machine Learning and Computer Vision 2017.
 
 ###  **Teaching**
 
+* [RLSS 2022](https://rlsummerschool.com/): Reinforcement Learning Summer School, 11th to 15th of July 2022. Teaching assistant.
+
+* [BAMB! 2022](https://www.bambschool.org/): Barcelona Summer School for Advanced Modeling of Behavior, 1rst to 8th of September 2022. Teaching assistant. Topics: Introduction to Neural Networks with Jax.
+
 * Aalto University, Special Course in ML, Data Science and AI: Gaussian processes - theory and applications, 11.01.2021-19.02.2021 [[link](https://mycourses.aalto.fi/course/view.php?id=30460)]. Co-lecturer: variational inference.
 
-* [BAMB!](https://www.bambschool.org/): Barcelona Summer School for Advanced Modeling of Behavior, 4th to 10th of September 2019. Teaching assistant. Topics: Introduction to Tensorflow, Model comparison.
+* [BAMB! 2019](https://www.bambschool.org/): Barcelona Summer School for Advanced Modeling of Behavior, 4th to 10th of September 2019. Teaching assistant. Topics: Introduction to Tensorflow, Model comparison.
 
 * UCL Graduate School, Dimensionality reduction, Instructor, 2013-2015.
 

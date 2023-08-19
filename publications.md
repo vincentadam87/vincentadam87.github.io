@@ -29,8 +29,11 @@ My [google scholar profile](https://scholar.google.com/citations?user=1OYH5GgAAA
 
 #### Preprints
 
+* Verma P, **Adam V**, Solin A (2023), _Variational Gaussian Process Diffusion Processes_, 
+ [[arxiv](https://arxiv.org/abs/2306.02066)]
+
 * McLeod J, Stojic, H, **Adam  V**, Kim D, Grau-Moya J, Vrancx P, Leibfried F (2021), _Bellman: A Toolbox for Model-Based Reinforcement Learning in TensorFlow_, 
- [[link](https://arxiv.org/abs/2103.14407)][[code](https://github.com/Bellman-devs/bellman/)]
+ [[arxiv](https://arxiv.org/abs/2103.14407)][[code](https://github.com/Bellman-devs/bellman/)]
 
 * Van der Wilk M, Dutordoir V, John ST, Artemev A, **Adam V**, Hensman J (2020), _A Framework for Interdomain and Multioutput Gaussian Processes_, [[arxiv](https://arxiv.org/abs/2003.01115)]
 

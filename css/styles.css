@@ -1,0 +1,276 @@
+/* ===============================
+   0️⃣ RETRO FONT IMPORT
+================================= */
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+
+/* ===============================
+   1️⃣ THEME VARIABLES
+================================= */
+:root {
+  --bg-color: #ffffff;
+  --text-color: #222222;
+  --nav-bg-color: #f9f9f9;
+  --border-color: #eeeeee;
+  --accent-color: #0077ff;
+  --typed-color: #0077ff;
+}
+
+html.dark-theme,
+:root.dark-theme {
+  --bg-color: #111111;
+  --text-color: #e6e6e6;
+  --nav-bg-color: #222222;
+  --border-color: #444444;
+  --accent-color: #00ffaa;
+  --typed-color: #00ffaa;
+}
+
+
+/* ===============================
+   2️⃣ GLOBAL RESET + BASE
+================================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: var(--bg-color);
+  color: var(--text-color);
+  line-height: 1.6;
+  transition: background 0.3s, color 0.3s;
+}
+
+
+/* ===============================
+   3️⃣ TYPEWRITER COLORED TEXT
+================================= */
+#typed-text {
+  color: var(--typed-color);
+}
+
+
+/* ===============================
+   4️⃣ LAYOUT + NAVIGATION
+================================= */
+.container {
+  width: 90%;
+  max-width: 900px;
+  margin: auto;
+}
+
+header {
+  background: var(--nav-bg-color);
+  border-bottom: 1px solid var(--border-color);
+  transition: background 0.3s, border-color 0.3s;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem 0;
+}
+
+.logo {
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: var(--text-color);
+  transition: color 0.25s ease;
+}
+
+.logo:hover {
+  color: var(--accent-color);
+}
+
+
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.menu a {
+  text-decoration: none;
+  color: var(--text-color);
+  font-size: 1rem;
+  transition: color 0.2s;
+}
+
+.menu a:hover {
+  color: var(--accent-color);
+}
+
+/* Global link styling (for all paragraph links) */
+main a {
+  color: var(--accent-color);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.25s ease, text-decoration-color 0.25s ease;
+}
+
+main a:hover {
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+main a:visited {
+  color: var(--accent-color); /* keep link color consistent */
+}
+
+
+/* Better paragraph spacing */
+main p {
+  margin-bottom: 1.5rem;
+}
+
+/* Optional: also add space after headings */
+main h1 {
+  margin-bottom: 1.5rem;
+}
+
+main h2 {
+  margin-bottom: 1rem;
+  margin-top: 2rem;
+}
+
+/* ===============================
+   5️⃣ THEME TOGGLE BUTTON
+================================= */
+
+#theme-toggle {
+  background: none;
+  border: none;
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  margin-left: 1rem;
+  position: relative; /* Needed for absolute child positioning */
+  display: inline-block;
+}
+
+/* Both icons occupy the same exact space, centered */
+#theme-toggle .icon {
+  width: 22px;
+  height: 22px;
+  stroke: var(--text-color);
+  fill: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: opacity 0.25s ease;
+}
+
+/* Light mode: show sun */
+#moon-icon {
+  opacity: 0;
+}
+
+/* Dark mode: show moon */
+html.dark-theme #sun-icon,
+:root.dark-theme #sun-icon {
+  opacity: 0;
+}
+html.dark-theme #moon-icon,
+:root.dark-theme #moon-icon {
+  opacity: 1;
+}
+
+
+
+/* body.dark-theme #theme-toggle .icon {
+  filter: invert(100%);
+} */
+
+
+/* ===============================
+   6️⃣ INTRO SECTION
+================================= */
+.intro {
+  padding: 4rem 0;
+}
+
+.intro h1 {
+  font-family: "Roboto Mono", monospace;
+  font-size: 1.5rem;
+  white-space: normal; /* allows wrapping */
+  word-break: break-word;
+  text-align: left; /* force left alignment */
+  margin-left: 0; /* ensure no offset */
+}
+
+
+.page-section {
+  padding: 4rem 0;
+}
+
+
+/* Blinking cursor */
+.cursor {
+  display: inline-block;
+  width: 10px;
+  animation: blink 0.7s infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+
+/* ===============================
+   FOOTER BAR
+================================= */
+footer {
+  padding: 1.5rem 0;
+  border-top: 1px solid var(--border-color);
+  background: var(--nav-bg-color);
+  transition: background 0.3s, border-color 0.3s;
+  text-align: center;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+.footer-icon {
+  width: 28px;
+  height: 28px;
+  stroke: var(--text-color);
+  fill: none;              /* good for line icons (scholar, email) */
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 2;
+  transition: stroke 0.25s, transform 0.25s, opacity 0.25s, fill 0.25s;
+  opacity: 0.85;
+}
+
+.footer-icon:hover {
+  transform: scale(1.15);
+  opacity: 1;
+  stroke: var(--accent-color);
+}
+
+.goodreads-icon {
+  width: 28px !important;
+  height: 28px !important;
+  fill: var(--text-color) !important;
+  stroke: none !important;
+  stroke-width: 0 !important;
+  opacity: 0.85;
+  transition: fill 0.25s ease, transform 0.25s ease, opacity 0.25s;
+}
+
+footer a:hover .goodreads-icon {
+  fill: var(--accent-color) !important;
+  transform: scale(1.15);
+  opacity: 1;
+}
+

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') {
+      document.documentElement.classList.add('dark-theme');
+    }
+  </script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vincent Adam</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+  <header>
+    <nav class="container">
+      <a href="#home" class="logo">Vincent Adam</a>
+
+      <ul class="menu">
+        <li><a href="#research">Research</a></li>
+        <li><a href="#consulting">Consulting</a></li>
+      </ul>
+
+      <button id="theme-toggle" aria-label="Toggle theme">
+        <span id="theme-icons"></span>
+      </button>
+    </nav>
+  </header>
+
+  <main id="content" class="container"></main>
+
+  <footer>
+    <div id="footer-links" class="container footer-links"></div>
+  </footer>
+
+  <script src="js/spa.js"></script>
+</body>
+</html>

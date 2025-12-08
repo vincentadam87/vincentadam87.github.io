@@ -2,7 +2,7 @@
 
 I work at the intersection of machine learning and cognitive science. I do research and teach at the University Pompeu Fabra in Barcelona (UPF), Spain. I spent some time in the [AI/ML group](https://www.upf.edu/web/ai-ml) and currently work with [Prof. Christopher Summerfield](https://humaninformationprocessing.com/) and am affiliated with the Center for Brain and Cognition ([CBC](https://www.upf.edu/web/cbc)).
 
-My machine learning expertise include reinforcement learning and control, optimisation and probabilistic machine learning.
+My machine learning expertises include reinforcement learning and control, optimisation and probabilistic machine learning.
 
 I was a Senior Machine Learning Researcher at [Secondmind.ai](https://www.secondmind.ai/) (ex Prowler.io) in Cambridge, UK, from February 2018 to January 2022. I was also a postdoctoral researcher in [Arno Solin](https://users.aalto.fi/~asolin/)'s group at Aalto University, Helsinki, from November 2020 to January 2022.
 

@@ -2,36 +2,8 @@
  * Single Page Application with Markdown
  *****************************************/
 
-// Simple markdown parser
 function parseMarkdown(md) {
-  let html = md;
-  
-  // Headers
-  html = html.replace(/^### (.*$)/gim, '<h3>$1</h3>');
-  html = html.replace(/^## (.*$)/gim, '<h2>$1</h2>');
-  html = html.replace(/^# (.*$)/gim, '<h1>$1</h1>');
-  
-  // Bold and Italic (order matters: do bold+italic first)
-  html = html.replace(/\*\*\*(.+?)\*\*\*/g, '<strong><em>$1</em></strong>');
-  html = html.replace(/___(.+?)___/g, '<strong><em>$1</em></strong>');
-  html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-  html = html.replace(/__(.+?)__/g, '<strong>$1</strong>');
-  html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
-  html = html.replace(/_(.+?)_/g, '<em>$1</em>');
-  
-  // Links
-  html = html.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank">$1</a>');
-  
-  // Paragraphs (split by double newlines)
-  html = html.split('\n\n').map(para => {
-    para = para.trim();
-    if (para.startsWith('<h') || para.startsWith('<span')) {
-      return para;
-    }
-    return para ? `<p>${para.replace(/\n/g, ' ')}</p>` : '';
-  }).join('\n');
-  
-  return html;
+  return marked.parse(md, { breaks: false });
 }
 
 /*****************************************

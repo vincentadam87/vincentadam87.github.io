@@ -5,7 +5,7 @@
 I help teams bridge the gap between theory and practice by bringing rigorous machine learning expertise to real-world problems.
 
 
-My consulting work focuses on problem formulation, scientific direction, and rapid prototyping, combining strong theoretical foundations with hands-on experience to quickly assess feasibility and identify promising modelling approaches.∫
+My consulting work focuses on problem formulation, scientific direction, and rapid prototyping, combining strong theoretical foundations with hands-on experience to quickly assess feasibility and identify promising modelling approaches.
 
 
 I create the most value through focused, high-impact collaboration, combining close engagement with independent analysis.

@@ -11,31 +11,31 @@ function parseMarkdown(md) {
  * 
  * To add a new page:
  * 1. Add entry to pages object below
- * 2. Create corresponding .md file in pages/
+ * 2. Create corresponding .md file in content/site/
  * 3. Add link to header in index.html
  *****************************************/
 
 const pages = {
   home: {
     title: 'Vincent Adam',
-    file: 'pages/home.md',
+    file: '/content/site/home.md',
     wrapperClass: 'intro',
     onLoad: initTypewriter
   },
   research: {
     title: 'Research — Vincent Adam',
-    file: 'pages/research.md',
+    file: '/content/site/research.md',
     wrapperClass: 'page-section'
   },
   consulting: {
     title: 'Consulting — Vincent Adam',
-    file: 'pages/consulting.md',
+    file: '/content/site/consulting.md',
     wrapperClass: 'page-section'
   }
   // Add new pages here following the same pattern:
   // pagename: {
   //   title: 'Page Title — Vincent Adam',
-  //   file: 'pages/pagename.md',
+  //   file: '/content/site/pagename.md',
   //   wrapperClass: 'page-section'
   // }
 };
@@ -51,6 +51,9 @@ async function loadPage(pageName) {
   try {
     // Fetch markdown file
     const response = await fetch(page.file);
+    if (!response.ok) {
+      throw new Error(`Failed to load ${page.file} (${response.status})`);
+    }
     const markdown = await response.text();
     
     // Convert markdown to HTML

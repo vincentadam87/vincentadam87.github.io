@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') document.documentElement.classList.add('dark-theme');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog — Vincent Adam</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body data-page="blog">
+  <header>
+    <nav class="container">
+      <a href="/#home" class="logo">Vincent Adam</a>
+      <!-- Navigation is intentionally defined here for now. Rebuild after changing tabs. -->
+      <ul class="menu">
+        <li><a href="/#research">Research</a></li>
+        <li><a href="/#consulting">Consulting</a></li>
+        <li><a href="/blog/">Blog</a></li>
+      </ul>
+      <button id="theme-toggle" aria-label="Toggle theme"><span id="theme-icons"></span></button>
+    </nav>
+  </header>
+  <main id="content" class="container"><div class="page-section blog-index">
+    <h1>Blog</h1>
+    
+    <div class="post-list"><article class="post-card">
+  <h2><a href="/blog/return-to-blogging/">Back to Blogging</a></h2>
+  <p class="post-meta"><time datetime="2026-10-08">October 8, 2026</time></p>
+    <div class="post-tags" aria-label="Tags"></div>
+</article></div>
+  </div></main>
+  <footer><div id="footer-links" class="container footer-links"></div></footer>
+  <script src="/js/blog.js?v=2"></script>
+</body>
+</html>

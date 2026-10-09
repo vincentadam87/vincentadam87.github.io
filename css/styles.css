@@ -210,6 +210,76 @@ html.dark-theme #moon-icon,
   padding: 4rem 0;
 }
 
+.post-list {
+  display: grid;
+  gap: 2rem;
+}
+
+.post-card {
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.post-card h2 {
+  margin: 0 0 0.5rem;
+}
+
+.post-card h2 a {
+  color: var(--text-color);
+}
+
+.post-meta {
+  color: var(--text-color);
+  opacity: 0.7;
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.post-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tag {
+  color: var(--accent-color);
+  font-size: 0.85rem;
+}
+
+.tag::before {
+  content: '#';
+}
+
+.blog-post h1 {
+  margin-top: 1rem;
+}
+
+.back-to-blog {
+  font-size: 0.95rem;
+}
+
+.post-content {
+  margin-top: 2.5rem;
+}
+
+.post-content h2 {
+  margin-top: 2.5rem;
+}
+
+@media (max-width: 600px) {
+  nav {
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+
+  .menu {
+    order: 3;
+    width: 100%;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+}
+
 
 /* Blinking cursor */
 .cursor {
@@ -273,4 +343,3 @@ footer a:hover .goodreads-icon {
   transform: scale(1.15);
   opacity: 1;
 }
-

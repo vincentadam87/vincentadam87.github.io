@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script>
+    const savedTheme = localStorage.getItem('theme');
+    if (savedTheme === 'dark') document.documentElement.classList.add('dark-theme');
+  </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Back to Blogging — Vincent Adam</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body data-page="post" data-post-slug="return-to-blogging">
+  <header>
+    <nav class="container">
+      <a href="/#home" class="logo">Vincent Adam</a>
+      <!-- Navigation is intentionally defined here for now. Rebuild after changing tabs. -->
+      <ul class="menu">
+        <li><a href="/#research">Research</a></li>
+        <li><a href="/#consulting">Consulting</a></li>
+        <li><a href="/blog/">Blog</a></li>
+      </ul>
+      <button id="theme-toggle" aria-label="Toggle theme"><span id="theme-icons"></span></button>
+    </nav>
+  </header>
+  <main id="content" class="container"><article class="page-section blog-post">
+      <a class="back-to-blog" href="/blog/">← All posts</a>
+      <h1>Back to Blogging</h1>
+      <p class="post-meta"><time datetime="2026-10-08">October 8, 2026</time></p>
+    <div class="post-tags" aria-label="Tags"></div>
+      <div class="post-content"><p>Hi!</p>
+<p>I am attempting a return to blogging, motivated by my enjoyment of the writing process, and maybe also to connect with a community sharing my interests. I am hoping to make the habit stick.</p>
+<p>My interests lie at the intersection of technology, society and culture. A lot is happening these days, driven mostly by rapid changes in AI.</p>
+<p>Facing these changes, my posture is multifaceted.</p>
+<p>I am an <strong>optimist</strong>. I find the technology incredibly empowering. It allows me to  learn, build, do tasks that were previously out of reach. With it, I can be more autonomous technologically: I no longer need most cloud services from the big tech and can instead use open source alternatives or build my own. I always could, but the entry cost is now manageable. </p>
+<p>I am <strong>excited</strong> that the fierce current competition leads to technological progress, in both the hardware (cheaper, more powerful, more efficient chips), and the software (more capable models).</p>
+<p>I am a <strong>stoic</strong>. I embrace the coming changes, those that affect my trade: Will my job disappear? Will I become irrelevant? These questions do not trigger fears or anxiety.</p>
+<p>I am <strong>cautious</strong>. I see the promises yet am aware of the pitfalls. A common aspect of every technology we adopt is what do we lose along the way. I am wary of excessive cognitive offloading. 
+I dislike the science fiction narratives of singularity, doom, that lead many key players in AI to cut corners, to be irresponsible to ship harmful products, cause damage now.</p>
+<p>I am overall fascinated to see these changes happening. These changes affect how I work in academia and in industry.</p>
+<p>Through this blog, I hope to discuss the technology itself, how it works, what I do with it, and its impact on society.</p>
+</div>
+    </article></main>
+  <footer><div id="footer-links" class="container footer-links"></div></footer>
+  <script src="/js/blog.js?v=2"></script>
+</body>
+</html>
